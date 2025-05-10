@@ -9,3 +9,6 @@ tensorflow
 hopsworks
 pyarrow
 scikit-learn
+confluent-kafka
+matplotlib
+lightgbm
